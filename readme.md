@@ -1,4 +1,4 @@
-#BINANCE-TRADING-BOT
+# BINANCE-TRADING-BOT
 
 
 Trading bot using RSI indicator for **Binance Exchange**. This bot uses basic RSI overbought/oversold strategy.
