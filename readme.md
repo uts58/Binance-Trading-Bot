@@ -3,21 +3,17 @@
 
 Trading bot using RSI indicator for **Binance Exchange**. This bot uses basic RSI overbought/oversold strategy.
 
-Python 3.6 up is a must
+Python 3.6 or greater version is required.
 ****
 ***This is not a financial service or investment advice! USE IT AS YOUR OWN RISK***
 ****
+
 ## Install Packages
 Run:
 ```
 pip install requirements.txt
 ```
-
-### API Credentials
-Go to your Binance account on `API Management` and create your own api keys: `API_KEY` and `API_SECRET`
-### Apprsie Credentials
-Follow Apprise documentation for more
-
+****
 ## Quick Start
 Install requirements first
 
@@ -38,7 +34,7 @@ Config
 - `API_KEY` = API key from Binance
 - `API_SECRET` = API secret from Binance
 - `TLD` = "com" for non-US, otherwise "us"
-
+****
 # Issues, suggestions and contributing
 
 If you run into any issues while using the bot or if you want to request any changes or new features, open a new issue
