@@ -1,0 +1,6 @@
+ta
+websocket
+python-binance
+apprise
+configparser
+pandas
