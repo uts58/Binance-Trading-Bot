@@ -17,6 +17,8 @@ pip install requirements.txt
 ## Quick Start
 Install requirements first
 
+- Clone package
+- Install requirements
 - Edit `configs/config.cfg`
 - Edit `configs/apprise_config.yml` (If you want to send push notifications to discord/ telegram etc.)
 - Run `python3 main.py`
@@ -35,6 +37,13 @@ Config
 - `API_SECRET` = API secret from Binance
 - `TLD` = "com" for non-US, otherwise "us"
 ****
+
+# TO-DOs
+- Add API support (for changing config values on runtime, and see stats)
+- Add frontend with auth (probably react)
+- Add more technical analysis support
+**** 
+
 # Issues, suggestions and contributing
 
 If you run into any issues while using the bot or if you want to request any changes or new features, open a new issue
